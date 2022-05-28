@@ -1,0 +1,12 @@
+Taiwan,Palau;14,Caroline Islands;22
+Palau,Sorong;5,Caroline Islands;11,Bismarck Sea;11
+Caroline Islands,Bismarck Sea;6,Vanuatu;43,Tarawa;15
+Bismarck Sea,Tarawa;16
+Tarawa,Vanuatu;10,Fiji;16,Samoa;14
+Samoa,Hawaii;52,Papeete;15,Rarotonga;9
+Vanuatu,Fiji;7,Cairns;16,Brisbane;15,Hokianga;35
+Cairns,Brisbane;7
+Fiji,Tonga;5,Hokianga;33
+Tonga,Rarotonga;10,Hokianga;29
+Rarotonga,Hokianga;21,Papeete;4,Pitcairn Islands;20
+Hokianga,Pitcairn Islands;37
